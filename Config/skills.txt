@@ -3,3 +3,5 @@ Sculpting
 Texturing
 UV-Unwrapping
 Retopology
+Rigging
+Look Dev
