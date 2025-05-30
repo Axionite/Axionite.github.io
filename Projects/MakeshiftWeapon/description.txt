@@ -1,0 +1,9 @@
+Makeshift Weapon
+---
+This was the first of three portfolio pieces done for my 3rd Year showreel which attempted an Outlast Trials style of asset. The reason for choosing to make such an asset was not only because the enemies in Outlast Trials wield such makeshift weaponary, but because it fits that grungy, broken, worn down tone that appears almost everywhere you look in the game. The artists at Red Barrels, the studio known for their Outlast series, seem to focus heavily on texture work while keeping the models themselves relatively simple, so my goal for this piece was to do the same. Such an asset would fit perfectly in the game, and all its components fit within the time period the game is set in, 1959. Concept made by Vrundar Athalye on Artstation: https://www.artstation.com/artwork/kQQA3z 
+---
+Maya, Topogun, Substance Painter, Marmoset Toolbag, Unreal Engine 5
+---
+Placeholderthumbnail.png
+---
+MakeshiftWeapon.html

@@ -1,0 +1,9 @@
+Marconi Mark II Camera
+---
+This is the second of three portfolio pieces done for my 3rd Year showreel. Unlike the first piece, this was an attempt at creating a 1950s era camera from real life reference. Since the reference given is in very high quality and detail, a lot could be recreated down to the minute details. The reason for creating this piece was not only because it was quite bulky and awkward, but because it fit the time period, as the game is set in 1959 during the Cold War and this camera came out nearly a decade prior. On the Red Barrels YouTube channel they mention that they try to go for a clunky, prototype, feeling for their assets, so this camera fits perfectly. Reference: https://collection.sciencemuseumgroup.org.uk/objects/co417326/marconi-mark-ii-television-camera-head-1951    
+---
+Maya, Zbrush, Topogun, Substance Painter, Marmoset Toolbang, Unreal Engine 
+---
+Placeholderthumbnail1.png
+---
+MarconiMarkIICamera.html

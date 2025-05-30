@@ -1,0 +1,13 @@
+Triangles: TBD
+
+Materials: 2
+
+Texture Size: 2048x2048
+
+Texel Density: TBD
+
+Workflow: PBR Metal/Rough
+
+Target Engine: Unreal Engine
+
+Collaborators:
