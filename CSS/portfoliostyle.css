@@ -75,28 +75,29 @@ h2 {
 }
 
 .navigation-buttons {
-  display: flex;
-  gap: 0.5rem;
-  justify-content: center; /* Ensure buttons are centered */
-  padding-bottom: 0; /* No padding at the bottom */
+    display: flex;
+    gap: 1rem;
+    justify-content: center; /* Ensure buttons are centered */
+    padding-bottom: 0; /* No padding at the bottom */
 }
 
 .nav-button {
-  background-color: inherit;
-  border: none;
-  color: grey;
-  font-family: 'Poppins', sans-serif;
-  text-decoration: none;
-  cursor: pointer;
-  padding: 10px;
-  margin-right: 10px;
-  font-size: 14px;
-  border-radius: .9em .9em 0 0;
+    background-color: inherit;
+    border: none;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 14px;
+    border-radius: .9em .9em 0 0;
+    transition: ease 0.5s;
 }
 
 .nav-button.active, .nav-button:hover {
-  background-color: #171717;
-  color: #9966CC;
+    background-color: #171717;
+    color: #ab0fd6;
 }
 
 .bottom-container {
@@ -122,8 +123,8 @@ h2 {
 
   h2 {
       font-size: 14px; /* Adjust font size for mobile */
-      text-align: center; /* Center align text for better readability on mobile */
-  }
+      text-align: center; /* Center align text for better readability on mob
+      
 
   .main-container {
       overflow-y: auto; /* Ensure main container scrolls if necessary */
