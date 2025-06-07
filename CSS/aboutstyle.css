@@ -106,7 +106,7 @@ p {
 
 .navigation-buttons {
     display: flex;
-    gap: 1rem;
+    gap: .05rem;
     justify-content: center; /* Ensure buttons are centered */
     padding-bottom: 0; /* No padding at the bottom */
 }
