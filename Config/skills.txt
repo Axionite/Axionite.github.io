@@ -4,5 +4,4 @@ Texturing
 UV-Unwrapping
 Retopology
 Rigging
-Look Dev
 Destruction Simulation
