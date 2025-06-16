@@ -2,8 +2,8 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-Undergraduate Student
+BA (Hons) 3D Game Art
 Buckinghamshire New University
-2022-Present
+September 2025 - June 2025
 BNULogotrue.png 
 Here is where my journey into 3D officially began. I learnt a range of skills and software, while recieving guidance from lecturors and fellow students. Before coming here I had an idea of what I wanted to be in the industry, a 3D character artist, which I wasn't planning on letting go but that has changed into prop and asset creation focusing on horror.
