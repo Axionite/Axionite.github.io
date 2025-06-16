@@ -1,8 +1,11 @@
 Maya
 Zbrush
 Adobe Photoshop
-Substance Painter
+Adobe Premiere Pro
+Adobe Substance 3D Painter
 Marvelous Designer
 Topogun 
 Marmoset Toolbag
 Houdini
+Pureref
+Unreal Engine

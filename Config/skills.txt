@@ -1,7 +1,7 @@
 3D Modelling
-Sculpting
-Texturing
-UV-Unwrapping
+Digital Sculpting
+PBR Texturing
+UV Mapping
 Retopology
 Rigging
-Destruction Simulation
+Cloth Simulation
